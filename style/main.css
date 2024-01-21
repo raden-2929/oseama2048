@@ -334,12 +334,17 @@ hr {
   }  
   .tile.tile-4 .tile-inner {
     background: url('https://i.imgur.com/Nz42usY.gif') no-repeat center center;
-    background-size: cover; }
+    background-size: cover;
+  }
+ .tile.tile-8 .tile-inner {
+    background: url('https://i.imgur.com/Nz42usY.gif') no-repeat center center;
+    background-size: cover;
+ }
   .tile.tile-16 .tile-inner {
     background: url('https://i.imgur.com/BoIsns7.gif ') no-repeat center center;
     background-size: cover;
   }
-  .tile.tile-32 ..tile-inner {
+  .tile.tile-32 .tile-inner {
     background: url('https://i.imgur.com/BoIsns7.gif ') no-repeat center center;
     background-size: cover;
   } 

@@ -366,11 +366,11 @@ hr {
     background-size: cover;
   }  
     @media screen and (max-width: 520px) {
-      .tile.tile-256 ..tile-inner {
+      .tile.tile-256 .tile-inner {
     background: url('https://i.imgur.com/BoIsns7.gif ') no-repeat center center;
     background-size: cover;
   }  
-  .tile.tile-512 ..tile-inner {
+  .tile.tile-512 .tile-inner {
     background: url('https://i.imgur.com/BoIsns7.gif ') no-repeat center center;
     background-size: cover;
   }  
